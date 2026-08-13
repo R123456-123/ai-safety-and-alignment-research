@@ -20,3 +20,6 @@ This repository contains isolated experiments testing how AI models handle secur
 
 ### Now we start Intense practice and research in AI relevencies:
 * **ReAct** (file -> react_agent)
+
+
+Day 1: Async Python, Server-Sent Events (SSE) & Token Streaming

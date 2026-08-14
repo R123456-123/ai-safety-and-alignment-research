@@ -21,5 +21,10 @@ This repository contains isolated experiments testing how AI models handle secur
 ### Now we start Intense practice and research in AI relevencies:
 * **ReAct** (file -> react_agent)
 
+---
 
-Day 1: Async Python, Server-Sent Events (SSE) & Token Streaming
+# Deep dive in AI engineering and relevent
+
+## Day 1: Async Python, Server-Sent Events (SSE) & Token Streaming
+Build a production-grade FastAPI SSE gateway that safely offloads async I/O, streams formatted SSE events, handles unexpected client disconnects to prevent wasted GPU compute, and streams simulated tokens.
+

@@ -1,6 +1,21 @@
-# ai-safety-and-alignment-research
+# AI Engineering, Safety, and Alignment Labs
 
-This repository contains isolated experiments testing how AI models handle security vulnerabilities, jailbreaks, and hidden instructions.
+# [section-1] Deep Dive in AI Engineering
+
+This section contains AI engineering, evaluation, and AI-related projects. It focuses on the essential practices and technical implementations required to build robust AI systems.
+
+---
+
+## Practicle implementation and experiment
+
+## Day 1: Async Python, Server-Sent Events (SSE) & Token Streaming
+Build a production-grade FastAPI SSE gateway that safely offloads async I/O, streams formatted SSE events, handles unexpected client disconnects to prevent wasted GPU compute, and streams simulated tokens.
+
+---
+
+# [section-2] AI Safety and Alignment Research
+
+This repository contains isolated experiments testing how AI models handle security vulnerabilities, jailbreaks, and hidden instructions. 
 
 ---
 
@@ -23,8 +38,19 @@ This repository contains isolated experiments testing how AI models handle secur
 
 ---
 
-# Deep dive in AI engineering and relevent
+# Reading List & Core Literature
 
-## Day 1: Async Python, Server-Sent Events (SSE) & Token Streaming
-Build a production-grade FastAPI SSE gateway that safely offloads async I/O, streams formatted SSE events, handles unexpected client disconnects to prevent wasted GPU compute, and streams simulated tokens.
+A curated tracker of influential AI engineering and safety research papers that I have completed or am currently reading.
+
+Paper | Title | Authors | Status | Key Takeaway
+
+---
+
+# My Research & Publications
+
+Original research, whitepapers, and formal write-ups generated from the experiments conducted in this repository.
+
+[Your Paper Title 1] — Brief summary of your hypothesis, methodology, and core findings.
+
+---
 
